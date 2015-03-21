@@ -1,1 +1,3 @@
-<?php echo "estoy saludando a todos"; ?>
+<?php echo "estoy saludando a todos y todas"; 
+	exit;
+?>
